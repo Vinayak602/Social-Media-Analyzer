@@ -1,0 +1,36 @@
+whatstk
+pygeohash
+streamlit
+streamlit-extras
+streamlit-plotly-events
+streamlit-folium
+streamlit-analytics
+st-annotated-text
+folium
+googletrans==3.1.0a0
+emoji
+scikit-learn
+nltk
+gensim
+
+#youtube sentiment Analysis
+streamlit
+pandas==1.4.2
+plotly==5.14.1
+colorama==0.4.4
+google-api-python-client==2.50.0
+protobuf==3.19.0
+
+
+#you tube video summerizer
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+reportlab
+google-auth-oauthlib 
+google-auth-httplib2
+google-auth
+google-api-python-client
+googletrans
