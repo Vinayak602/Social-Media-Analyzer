@@ -12,19 +12,9 @@ emoji
 scikit-learn
 nltk
 gensim
-
-#youtube sentiment Analysis
-streamlit
-pandas==1.4.2
-plotly==5.14.1
 colorama==0.4.4
-google-api-python-client==2.50.0
-protobuf==3.19.0
-
-
-#you tube video summerizer
+protobuf
 youtube_transcript_api
-streamlit
 google-generativeai
 python-dotenv
 pathlib
