@@ -101,7 +101,7 @@ def main():
 
     prod_photo_holder = st.empty()
     with prod_photo_holder:
-        st.markdown('<img src="..add_ons\styles\logos\demo.png" alt="drawing" style="width:1000px;"/>',
+        st.markdown('<img src="demo.png" alt="drawing" style="width:1000px;"/>',
                     unsafe_allow_html=True)
         # components.html(prod_sliding_photos, height=800, width=1200)
 
